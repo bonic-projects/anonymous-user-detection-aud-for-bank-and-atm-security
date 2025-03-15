@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1069859779611",
+    "firebase_url": "https://aud-bank-default-rtdb.firebaseio.com",
+    "project_id": "aud-bank",
+    "storage_bucket": "aud-bank.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069859779611:android:b28d8a4f87d111f2dbf4be",
+        "android_client_info": {
+          "package_name": "com.example.aud_for_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9AyqFMwAb5Z_Tw2YKhO9uxQQGuwOOMNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

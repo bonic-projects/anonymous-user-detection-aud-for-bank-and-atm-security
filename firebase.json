@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"aud-bank","appId":"1:1069859779611:android:b28d8a4f87d111f2dbf4be","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"aud-bank","configurations":{"android":"1:1069859779611:android:b28d8a4f87d111f2dbf4be","ios":"1:1069859779611:ios:4a9e2fc01d5ed633dbf4be"}}}}}}
